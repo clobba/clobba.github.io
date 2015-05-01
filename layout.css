@@ -1,9 +1,12 @@
 @charset "UTF-8";
-@import url("http://clobba.github.io/fonts/bebasneue/stylesheet.css");
+@import url("http://clobba.github.io/	fonts/bebasneue/stylesheet.css");
 @import url("http://clobba.github.io/fonts/foundation_icons_general/stylesheet.css");
 @import url("http://clobba.github.io/fonts/foundation_icons_social/stylesheet.css");
 @import url("http://clobba.github.io/fonts/foundation_icons_general_enclosed/stylesheet.css");
-
+@font-face {
+	font-family:BebasNeueRegular;
+	src:url(http://clobba.github.io/fonts/bebasneue-webfont.ttf) format("truetype");
+	}
 
 /*-------Global styles--------*/
 
