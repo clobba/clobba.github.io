@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'foundation icons social';
+	src: url('foundation-icons-social.eot');
+	src: url('foundation-icons-social.eot?#iefix') format('embedded-opentype'),
+		url('foundation-icons-social.woff') format('woff'),
+		url('foundation-icons-social.ttf') format('truetype'),
+		url('foundation-icons-social.svg') format('svg');
+}

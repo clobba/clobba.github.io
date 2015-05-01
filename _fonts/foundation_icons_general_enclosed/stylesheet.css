@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'foundation icons general enclosed';
+	src: url('foundation-icons-general-enclosed.eot');
+	src: url('foundation-icons-general-enclosed.eot?#iefix') format('embedded-opentype'),
+		url('foundation-icons-general-enclosed.woff') format('woff'),
+		url('foundation-icons-general-enclosed.ttf') format('truetype'),
+		url('foundation-icons-general-enclosed.svg') format('svg');
+}
