@@ -19,13 +19,13 @@ address, article, aside, canvas, details, figcaption, figure, footer, header, hg
 
 
 @font-face {
-	font-family:BebasNeueRegular;
-	src:url(clobba.github.io/fonts/bebasneue-webfont.ttf) format("truetype");
+	font-family:'BebasNeueRegular';
+	src: url(clobba.github.io/fonts/bebasneue-webfont.ttf) format('truetype');
 	}
 	
 @font-face {
-	font-family:foundation icons general;
-	src:url(clobba.github.io/fonts/foundation-icons-general) format("truetype");
+	font-family:'foundation icons general';
+	src: url(clobba.github.io/fonts/foundation-icons-general) format('truetype');
 	}
 
 
