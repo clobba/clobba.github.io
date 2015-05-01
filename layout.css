@@ -1,12 +1,5 @@
 @charset "UTF-8";
-@import url("http://clobba.github.io/	fonts/bebasneue/stylesheet.css");
-@import url("http://clobba.github.io/fonts/foundation_icons_general/stylesheet.css");
-@import url("http://clobba.github.io/fonts/foundation_icons_social/stylesheet.css");
-@import url("http://clobba.github.io/fonts/foundation_icons_general_enclosed/stylesheet.css");
-@font-face {
-	font-family:BebasNeueRegular;
-	src:url(clobba.github.io/fonts/bebasneue-webfont.ttf) format("truetype");
-	}
+
 
 /*-------Global styles--------*/
 
@@ -24,6 +17,16 @@ address, article, aside, canvas, details, figcaption, figure, footer, header, hg
 	display: block;
 }
 
+
+@font-face {
+	font-family:BebasNeueRegular;
+	src:url(clobba.github.io/fonts/bebasneue-webfont.ttf) format("truetype");
+	}
+	
+@font-face {
+	font-family:foundation icons general;
+	src:url(clobba.github.io/fonts/foundation-icons-general) format("truetype");
+	}
 
 
 html {
