@@ -245,7 +245,7 @@ background/-image:('');	}#tags_label{
 	height: auto;
 	}div#profile_about_me.profile_subsection{
 	text-indent: 2px;
-	background: url('') rgba(0,0,0, 0.0);
+	background: url('../_css%20-%20Copy/%27%27') rgba(0,0,0, 0.0);
 	background-repeat: no-repeat;
 	background-position: top right;
 }/*** disabled ***/ #header_bar,#footer_bar,#about_me_label,#profile_main_photo,#profile_header_container,#profile_schedule,.heading,.label,#avatar_holder{
@@ -798,7 +798,7 @@ background/-image:('');	}#tags_label{
 	padding: 3px 3px;
 	text-align: center;
 	margin: 5px 5px;
-	background: url('file:///X|/MFC/EvaGomez/-image/bg_vid.png');
+	background: url('../-image/bg_vid.png');
 	background-repeat: no-repeat;
 	background-size: 100%;
 	background-position: bottom;
@@ -879,7 +879,7 @@ background/-image:('');	}#tags_label{
 	padding: 3px 3px;
 	text-align: center;
 	margin: 5px 5px;
-	background: url('file:///X|/MFC/EvaGomez/-image/bg_vid.png');
+	background: url('../-image/bg_vid.png');
 	background-repeat: no-repeat;
 	background-size: 100%;
 	background-position: bottom;
