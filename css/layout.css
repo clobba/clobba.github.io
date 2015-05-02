@@ -5,6 +5,8 @@
 @import url("../webfonts/foundation_icons_general_enclosed/stylesheet.css");
 @import url("../webfonts/MuseoSans_500/stylesheet.css");
 @import url("../webfonts/BeautyMarks/stylesheet.css");
+@import url("bebasneue/stylesheet.css");
+
 
 
 /*-------Global styles--------*/
@@ -296,17 +298,18 @@ section p {
 	background-color: #FFF;
 	float: left;
 	width: 640px;
-	margin-bottom: 40px;
+	margin-bottom: 20px;
 	padding-top: 20px;
-	padding-bottom: 10px;
+	padding-bottom: 20px;
 	border-radius: 10px;
 	-moz-border-radius: 10px;
 	-webkit-border-radius: 10px;
 }
 #main h1 {
-	font-family: BebasNeueRegular, Verdana, Geneva, sans-serif;
-	font-size: 2.4em;
-	text-shadow: 0px 2px #82b917;
+	font-family: "MuseoSans 500", Arial, sans-serif;
+	font-size: 2em;
+	text-shadow: 0px 1px #333;
+	color: #a33f7d;
 }
 #main p {
 	font-size: 1em;
@@ -314,10 +317,14 @@ section p {
 	margin-bottom: 1.5em;
 }
 #main h1 span {
-	color: #518914;
-	text-shadow: 0px 2px #333;
+	color: #f9a7d3;
+	text-shadow: 0px 1px #333;
 }
-
+#main img {
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	}
 
 
 /*this article is on the other pages*/
@@ -353,10 +360,19 @@ aside div .source {
 	font-style: italic;
 	color: #C8BCD4;
 	float: left;
+	clear: left;
+}
+aside div .source2 {
+	font-size: .75em;
+	font-style: italic;
+	color: #A33F7D;
 }
 
 aside .aside-pic {
 	margin-bottom: 10px;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
 }
 
 /* aside greenbox */
