@@ -6,7 +6,7 @@ if (filter_var($_REQUEST['contact_email'], FILTER_VALIDATE_EMAIL)):
   $subject = 'Email from Coming Soon Page'; // Subject of your email
 
   // Receiver email address
-  $to = 'clobber420@riseup.net';  //Change the email address by yours
+  $to = 'jollyswvgmvn@gmail.com';  //Change the email address by yours
  
 
   // prepare header
