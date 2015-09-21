@@ -3,13 +3,13 @@
 
 
 @font-face {
-    font-family: 'bira_personal_use_onlyregular';
-    src: url('bira-webfont.eot');
-    src: url('bira-webfont.eot?#iefix') format('embedded-opentype'),
-         url('bira-webfont.woff2') format('woff2'),
-         url('bira-webfont.woff') format('woff'),
-         url('bira-webfont.ttf') format('truetype'),
-         url('bira-webfont.svg#bira_personal_use_onlyregular') format('svg');
+    font-family: 'firgoregular';
+    src: url('firgo-webfont.eot');
+    src: url('firgo-webfont.eot?#iefix') format('embedded-opentype'),
+         url('firgo-webfont.woff2') format('woff2'),
+         url('firgo-webfont.woff') format('woff'),
+         url('firgo-webfont.ttf') format('truetype'),
+         url('firgo-webfont.svg#firgoregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -19,13 +19,13 @@
 
 
 @font-face {
-    font-family: 'caviar_dreamsregular';
-    src: url('caviardreams-webfont.eot');
-    src: url('caviardreams-webfont.eot?#iefix') format('embedded-opentype'),
-         url('caviardreams-webfont.woff2') format('woff2'),
-         url('caviardreams-webfont.woff') format('woff'),
-         url('caviardreams-webfont.ttf') format('truetype'),
-         url('caviardreams-webfont.svg#caviar_dreamsregular') format('svg');
+    font-family: 'firgooblique';
+    src: url('firgo-slanted-webfont.eot');
+    src: url('firgo-slanted-webfont.eot?#iefix') format('embedded-opentype'),
+         url('firgo-slanted-webfont.woff2') format('woff2'),
+         url('firgo-slanted-webfont.woff') format('woff'),
+         url('firgo-slanted-webfont.ttf') format('truetype'),
+         url('firgo-slanted-webfont.svg#firgooblique') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -35,29 +35,13 @@
 
 
 @font-face {
-    font-family: 'caviar_dreamsbold';
-    src: url('caviardreams_bold-webfont.eot');
-    src: url('caviardreams_bold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('caviardreams_bold-webfont.woff2') format('woff2'),
-         url('caviardreams_bold-webfont.woff') format('woff'),
-         url('caviardreams_bold-webfont.ttf') format('truetype'),
-         url('caviardreams_bold-webfont.svg#caviar_dreamsbold') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
-
-
-@font-face {
-    font-family: 'caviar_dreamsbold_italic';
-    src: url('caviardreams_bolditalic-webfont.eot');
-    src: url('caviardreams_bolditalic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('caviardreams_bolditalic-webfont.woff2') format('woff2'),
-         url('caviardreams_bolditalic-webfont.woff') format('woff'),
-         url('caviardreams_bolditalic-webfont.ttf') format('truetype'),
-         url('caviardreams_bolditalic-webfont.svg#caviar_dreamsbold_italic') format('svg');
+    font-family: 'goatbeardregular';
+    src: url('goatbeard-webfont.eot');
+    src: url('goatbeard-webfont.eot?#iefix') format('embedded-opentype'),
+         url('goatbeard-webfont.woff2') format('woff2'),
+         url('goatbeard-webfont.woff') format('woff'),
+         url('goatbeard-webfont.ttf') format('truetype'),
+         url('goatbeard-webfont.svg#goatbeardregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
