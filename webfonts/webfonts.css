@@ -1,0 +1,155 @@
+@font-face {
+  font-family: "Affliction";
+  src: url("http://clobba.github.io/webfonts/affliction-webfont.eot?") format("eot"),
+  url("http://clobba.github.io/webfonts/affliction-webfont.woff") format("woff"),
+  url("http://clobba.github.io/webfonts/affliction-webfont.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: 'bira';
+	src: url('http://clobba.github.io/webfonts/bira-webfont.eot');
+	src: url('http://clobba.github.io/webfonts/bira-webfont.eot?#iefix') format('embedded-opentype'),
+		url('http://clobba.github.io/webfonts/bira-webfont.woff') format('woff'),
+		url('http://clobba.github.io/webfonts/bira-webfont.ttf') format('truetype'),
+		url('http://clobba.github.io/webfonts/bira-webfont.svg') format('svg');
+}
+
+@font-face {
+	font-family: 'MuseoSans 500';
+	src: url('http://clobba.github.io/webfonts/MuseoSans_500-webfont.eot');
+	src: url('http://clobba.github.io/webfonts/MuseoSans_500-webfont.eot?#iefix') format('embedded-opentype'),
+		url('http://clobba.github.io/webfonts/MuseoSans_500-webfont.woff') format('woff'),
+		url('http://clobba.github.io/webfonts/MuseoSans_500-webfont.ttf') format('truetype'),
+		url('http://clobba.github.io/webfonts/MuseoSans_500-webfont.svg') format('svg');
+}
+@font-face {
+  font-family: "Caviar Dreams Bold Italic";
+  src: url("http://clobba.github.io/webfonts/caviardreams_bolditalic-webfont.eot?") format("eot"),
+  url("http://clobba.github.io/webfonts/caviardreams_bolditalic-webfont.woff") format("woff"),
+  url("http://clobba.github.io/webfonts/caviardreams_bolditalic-webfont.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Junction 02";
+  src: url("http://clobba.github.io/webfonts/junction_02-webfont.eot?") format("eot"),
+  url("http://clobba.github.io/webfonts/junction_02-webfont.woff") format("woff"),
+  url("http://clobba.github.io/webfonts/junction_02-webfont.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Caviar Dreams Bold";
+  src: url("http://clobba.github.io/webfonts/caviardreams_bold-webfont.eot?") format("eot"),
+  url("http://clobba.github.io/webfonts/caviardreams_bold-webfont.woff") format("woff"),
+  url("http://clobba.github.io/webfonts/caviardreams_bold-webfont.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Caviar Dreams";
+  src: url("http://clobba.github.io/webfonts/caviardreams-webfont.eot?") format("eot"),
+  url("http://clobba.github.io/webfonts/caviardreams-webfont.woff") format("woff"),
+  url("http://clobba.github.io/webfonts/caviardreams-webfont.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Beautymarks";
+  src: url("http://clobba.github.io/webfonts/beautymarks.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Anvo Regular";
+  src: url("http://clobba.github.io/webfonts/arvo-regular-webfont.eot?") format("eot"),
+  url("http://clobba.github.io/webfonts/arvo-regular-webfont.woff") format("woff"),
+  url("http://clobba.github.io/webfonts/arvo-regular-webfont.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Franchise Bold Hinted";
+  src: url("http://clobba.github.io/webfonts/franchise-bold-hinted-webfont.eot?") format("eot"),
+  url("http://clobba.github.io/webfonts/franchise-bold-hinted-webfont.woff") format("woff"),
+  url("http://clobba.github.io/webfonts/franchise-bold-hinted-webfont.ttf") format("truetype");
+}
+@font-face {
+  font-family: "League Gothic";
+  src: url("http://clobba.github.io/webfonts/league-gothic-webfont.eot?") format("eot"),
+  url("http://clobba.github.io/webfonts/league-gothic-webfont.woff") format("woff"),
+  url("http://clobba.github.io/webfonts/league-gothic-webfont.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Lindenhill";
+  src: url("http://clobba.github.io/webfonts/lindenhill-webfont.eot?") format("eot"),
+  url("http://clobba.github.io/webfonts/lindenhill-webfont.woff") format("woff"),
+  url("http://clobba.github.io/webfonts/lindenhill-webfont.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Munro Narrow";
+  src: url("http://clobba.github.io/webfonts/munro_narrow-webfont.eot?") format("eot"),
+  url("http://clobba.github.io/webfonts/munro_narrow-webfont.woff") format("woff"),
+  url("http://clobba.github.io/webfonts/munro_narrow-webfont.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Maxim";
+  src: url("http://clobba.github.io/webfonts/maxim.woff") format("woff");
+}
+@font-face {
+  font-family: "AlbaM";
+  src: url("http://clobba.github.io/webfonts/albam___-webfont.eot?") format("eot"),
+  url("http://clobba.github.io/webfonts/albam___-webfont.woff") format("woff"),
+  url("http://clobba.github.io/webfonts/albam___-webfont.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Alba";
+  src: url("http://clobba.github.io/webfonts/alba____-webfont.eot?") format("eot"),
+  url("http://clobba.github.io/webfonts/alba____-webfont.woff") format("woff"),
+  url("http://clobba.github.io/webfonts/alba____-webfont.ttf") format("truetype");
+}
+@font-face {
+  font-family: "AlbaS";
+  src: url("http://clobba.github.io/webfonts/albas___-webfont.eot?") format("eot"),
+  url("http://clobba.github.io/webfonts/albas___-webfont.woff") format("woff"),
+  url("http://clobba.github.io/webfonts/albas___-webfont.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Steelfish EB";
+  src: url("http://clobba.github.io/webfonts/steelfish-eb-webfont.eot?") format("eot"),
+  url("http://clobba.github.io/webfonts/steelfish-eb-webfont.woff") format("woff"),
+  url("http://clobba.github.io/webfonts/steelfish-eb-webfont.ttf") format("truetype");
+}
+@font-face {
+  font-family: "KomikaxX";
+  src: url("http://clobba.github.io/webfonts/komikax-webfont.eot?") format("eot"),
+  url("http://clobba.github.io/webfonts/komikax-webfont.woff") format("woff"),
+  url("http://clobba.github.io/webfonts/komikax-webfont.ttf") format("truetype");
+}
+@font-face {
+	font-family: foundation-icons-general;
+	src: url(http://clobba.github.io/webfonts/foundation-icons-general.eot);
+	src: url(http://clobba.github.io/webfonts/foundation-icons-general.woff) format("woff");
+	src: url(http://clobba.github.io/webfonts/foundation-icons-general.ttf) format("truetype");
+}
+@font-face {
+	font-family: foundation-icons-enclosed;
+	src: url(http://clobba.github.io/webfonts/foundation-icons-general-enclosed.eot);
+	src: url(http://clobba.github.io/webfonts/foundation-icons-general-enclosed.woff) format("woff");
+	src: url(http://clobba.github.io/webfonts/foundation-icons-general-enclosed.ttf) format("truetype");
+}
+@font-face {
+	font-family: foundation-icons-social;
+	src: url(http://clobba.github.io/webfonts/foundation-icons-social.eot);
+	src: url(http://clobba.github.io/webfonts/foundation-icons-social.woff) format("woff");
+	src: url(http://clobba.github.io/webfonts/foundation-icons-social.ttf) format("truetype");
+}
+@font-face {
+	font-family: lobstertwo bolditalic;
+	src: url(http://clobba.github.io/webfonts/lobstertwo-bolditalic-webfont.eot);
+	src: url(http://clobba.github.io/webfonts/lobstertwo-bolditalic-webfont.woff) format("woff");
+	src: url(http://clobba.github.io/webfonts/lobstertwo-bolditalic-webfont.ttf) format("truetype");
+}
+@font-face {
+	font-family: bebasneue;
+	src: url(http://clobba.github.io/webfonts/bebasneue-webfont.eot);
+	src: url(http://clobba.github.io/webfonts/bebasneue-webfont.woff) format("woff");
+	src:(http://clobba.github.io/webfonts/bebasneue-webfont.ttf) format("truetype");
+}
+@font-face {
+	font-family: "MuseoSans 500";
+	src: url(http://clobba.github.io/webfonts/MuseoSans_500-webfont.eot);
+	src: url(http://clobba.github.io/webfonts/MuseoSans_500-webfont.woff) format("woff");
+	src: url(http://clobba.github.io/webfonts/MuseoSans_500-webfont.ttf) format("truetype");
+}

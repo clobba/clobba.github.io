@@ -3,13 +3,13 @@
 
 
 @font-face {
-    font-family: 'firgoregular';
-    src: url('firgo-webfont.eot');
-    src: url('firgo-webfont.eot?#iefix') format('embedded-opentype'),
-         url('firgo-webfont.woff2') format('woff2'),
-         url('firgo-webfont.woff') format('woff'),
-         url('firgo-webfont.ttf') format('truetype'),
-         url('firgo-webfont.svg#firgoregular') format('svg');
+    font-family: 'source_sans_problack';
+    src: url('sourcesanspro-black-webfont.eot');
+    src: url('sourcesanspro-black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('sourcesanspro-black-webfont.woff2') format('woff2'),
+         url('sourcesanspro-black-webfont.woff') format('woff'),
+         url('sourcesanspro-black-webfont.ttf') format('truetype'),
+         url('sourcesanspro-black-webfont.svg#source_sans_problack') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -19,13 +19,13 @@
 
 
 @font-face {
-    font-family: 'firgooblique';
-    src: url('firgo-slanted-webfont.eot');
-    src: url('firgo-slanted-webfont.eot?#iefix') format('embedded-opentype'),
-         url('firgo-slanted-webfont.woff2') format('woff2'),
-         url('firgo-slanted-webfont.woff') format('woff'),
-         url('firgo-slanted-webfont.ttf') format('truetype'),
-         url('firgo-slanted-webfont.svg#firgooblique') format('svg');
+    font-family: 'source_sans_proregular';
+    src: url('sourcesanspro-regular-webfont.eot');
+    src: url('sourcesanspro-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('sourcesanspro-regular-webfont.woff2') format('woff2'),
+         url('sourcesanspro-regular-webfont.woff') format('woff'),
+         url('sourcesanspro-regular-webfont.ttf') format('truetype'),
+         url('sourcesanspro-regular-webfont.svg#source_sans_proregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -35,13 +35,29 @@
 
 
 @font-face {
-    font-family: 'goatbeardregular';
-    src: url('goatbeard-webfont.eot');
-    src: url('goatbeard-webfont.eot?#iefix') format('embedded-opentype'),
-         url('goatbeard-webfont.woff2') format('woff2'),
-         url('goatbeard-webfont.woff') format('woff'),
-         url('goatbeard-webfont.ttf') format('truetype'),
-         url('goatbeard-webfont.svg#goatbeardregular') format('svg');
+    font-family: 'source_sans_prolight';
+    src: url('sourcesanspro-light-webfont.eot');
+    src: url('sourcesanspro-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('sourcesanspro-light-webfont.woff2') format('woff2'),
+         url('sourcesanspro-light-webfont.woff') format('woff'),
+         url('sourcesanspro-light-webfont.ttf') format('truetype'),
+         url('sourcesanspro-light-webfont.svg#source_sans_prolight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'diamondsblack';
+    src: url('diamondsblack-webfont.eot');
+    src: url('diamondsblack-webfont.eot?#iefix') format('embedded-opentype'),
+         url('diamondsblack-webfont.woff2') format('woff2'),
+         url('diamondsblack-webfont.woff') format('woff'),
+         url('diamondsblack-webfont.ttf') format('truetype'),
+         url('diamondsblack-webfont.svg#diamondsblack') format('svg');
     font-weight: normal;
     font-style: normal;
 
